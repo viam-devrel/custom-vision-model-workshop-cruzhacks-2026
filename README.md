@@ -1,17 +1,23 @@
 # CruzHacks 2026 Custom Vision Model with Viam Workshop
-Welcome CruzHacks 2026 workshop attendees! This repo contains the steps you'll follow alongside live instruction from @AdrienneTacke. You can always reference this repo in case you need a little more time or need to return to a particular step. Please let us know if you encounter any mistakes!
+Welcome CruzHacks 2026 workshop attendees! This workshop builds upon the Viam Rover that was built in the last workshop. You should have access to the Rover you intend to use. If not, reach out to a Viam instructor and they'll help you out! 
+
+This repo contains the steps you'll follow alongside live instruction from @AdrienneTacke. You can always reference this repo in case you need a little more time or need to return to a particular step. Please let us know if you encounter any mistakes!
 
 This walkthrough guides you on how to create and train a custom model through the Viam platform, then deploy the model for use on edge devices.
 
 ## Agenda
 
-Step 1: 
+Step 1: [Create a dataset](https://github.com/viam-devrel/custom-vision-model-workshop-cruzhacks-2026/tree/main/1-Create-a-dataset)
 
-Step 2: 
+Step 2: [Capture images for training](https://github.com/viam-devrel/custom-vision-model-workshop-cruzhacks-2026/tree/main/2-Capture-images-for-training)
 
-Step 3: 
+Step 3: [Annotate your dataset](https://github.com/viam-devrel/custom-vision-model-workshop-cruzhacks-2026/tree/main/3-Annotate-your-dataset)
 
-Step 4: 
+Step 4: [Train your custom model](https://github.com/viam-devrel/custom-vision-model-workshop-cruzhacks-2026/tree/main/4-Train-your-custom-model)
+
+Step 5: [Configure an ML model](https://github.com/viam-devrel/custom-vision-model-workshop-cruzhacks-2026/tree/main/5-Configure-an-ML-model)
+
+Step 6: [Add a vision service](https://github.com/viam-devrel/custom-vision-model-workshop-cruzhacks-2026/tree/main/6-Add-a-vision-service)
 
 ## Need help?
 
