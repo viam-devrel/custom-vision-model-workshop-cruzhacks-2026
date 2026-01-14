@@ -5,6 +5,12 @@ This repo contains the steps you'll follow alongside live instruction from @Adri
 
 This walkthrough guides you on how to create and train a custom model through the Viam platform, then deploy the model for use on edge devices.
 
+## Prerequisites
+- A Viam account, and then [sign in](https://app.viam.com/)
+- A Viam Rover (configured by last workshop) and access to that machine
+- Objects to detect! Have 3-5 different stickers or swag from the event's sponsors ready for data capture
+
+
 ## Agenda
 
 Step 1: [Create a dataset](https://github.com/viam-devrel/custom-vision-model-workshop-cruzhacks-2026/tree/main/1-Create-a-dataset)
