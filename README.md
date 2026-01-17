@@ -7,7 +7,7 @@ This walkthrough guides you on how to create and train a custom model through th
 
 ## Prerequisites
 - A Viam account, and then [sign in](https://app.viam.com/)
-- A Viam Rover (configured by last workshop) and access to that machine
+- A laptop with a built-in cam or a USB webcam that you can connect to your laptop
 - Objects to detect! Have 3-5 different stickers or swag from the event's sponsors ready for data capture
 
 
